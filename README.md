@@ -53,9 +53,7 @@ I am particularly interested in building reliable, practical software solutions 
 
 A production-ready Inventory Management System built to manage inventory sessions, import and compare Excel data, analyze inventory differences, generate reports, and control access through role-based permissions.
 
-**Tech:** ASP.NET Core • React • SQL Server • EF Core • JWT • MediatR
-
-🔗 [View Repository](https://github.com/FatemaMajid/InventorySystem)
+**Tech:** ASP.NET Core • React.js • SQL Server • EF Core • JWT • MediatR
 
 ### Supporting Tools for Department Administration
 
@@ -65,7 +63,22 @@ A web application designed to help academic departments manage teaching staff ac
 
 **Tech:** PHP • MySQL • JavaScript • AJAX • HTML • CSS
 
-🔗 [View Repository](https://github.com/FatemaMajid/supportingTools)
+### Company Profile Websites
+
+A collection of responsive company profile websites developed using React.js and modern web technologies.
+
+The websites were developed for different companies, with each project customized according to the company's branding, services, and requirements.
+
+**Tech:** React.js • JavaScript • Vite • CSS • Responsive Design
+
+Projects include:
+
+- Green Gate
+- Lamsat Al-Dar
+- Tel Al-Yaqoot
+- Bayt Al-Mutamayyiz
+- Meadows Engineering
+- Jinhua Baibin
 
 ## 💼 Professional Experience
 
@@ -76,17 +89,6 @@ At Green Gate for General Trading, I have worked across both technical and admin
 My web development work includes designing and developing responsive company profile websites using React.js for multiple companies, with each website customized according to its branding and services.
 
 I have also provided IT support, software troubleshooting, and technical assistance while contributing to administrative and business operations.
-
-## 🌐 Web Development
-
-Developed responsive company profile websites for:
-
-- Green Gate
-- Lamsat Al-Dar
-- Tel Al-Yaqoot
-- Bayt Al-Mutamayyiz
-- Meadows Engineering
-- Jinhua Baibin
 
 ## Other Projects
 
